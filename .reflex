@@ -1,0 +1,2 @@
+# This monitors all Go files and runs the Makefile target to restart the server
+-r '\.go$' -- sh -c 'make run && ./bin/app'

@@ -1,4 +1,4 @@
-module github.vom/Mesfrum/golang-webserver
+module github.com/Mesfrum/golang-webserver
 
 go 1.22.2
 
