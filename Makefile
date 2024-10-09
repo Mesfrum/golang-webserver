@@ -1,6 +1,6 @@
 # Build the application
 build:
-	@go build -o bin/golang-webserver_test ./cmd/golang-webserver
+	@go build -o bin/golang-webserver_test .
 
 # Run the application
 run: build
